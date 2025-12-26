@@ -1,0 +1,64 @@
+
+			<div class="ribeye">
+			<div class="row justify-content-md-center">
+			
+				<div class="col-auto mr-auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+				<div class="col-5">
+					<img src="C:\Users\audre\Documents\2022 PROJECTS\images\HOME PAGE-updated\HOME PAGE\IMG_8499.JPG", height="600px", width="600px">    
+					</div>
+				<div class="col-5">
+					<img src="C:\Users\audre\Documents\2022 PROJECTS\images\HOME PAGE-updated\HOME PAGE\IMG_8500.JPG", height="600px", width="600px">
+					</div>
+				<div class="col-auto ml-auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
+					
+			</div>
+			</div>
+
+			<div class="jap">
+			<div class="row justify-content-md-center">
+			
+				<div class="col-auto mr-auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+				<div class="col-5">
+					<img src="C:\Users\audre\Documents\2022 PROJECTS\images\HOME PAGE-updated\HOME PAGE\MONTH_S TOP PICKS - JD1.jpg", height="600px", width="600px">    
+					</div>
+				<div class="col-5">
+					<img src="C:\Users\audre\Documents\2022 PROJECTS\images\HOME PAGE-updated\HOME PAGE\MONTH_S TOP PICKS - JD2.jpg", height="600px", width="600px">
+					</div>
+				<div class="col-auto ml-auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
+					
+			</div>
+			</div>
+			
+			<div class="dessert">
+			<div class="row justify-content-md-center">
+			
+				<div class="col-auto mr-auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+				<div class="col-5">
+					<img src="C:\Users\audre\Documents\2022 PROJECTS\images\HOME PAGE-updated\HOME PAGE\MONTH_S TOP PICKS - D1.JPG", height="600px", width="600px">    
+					</div>
+				<div class="col-5">
+					<img src="C:\Users\audre\Documents\2022 PROJECTS\images\HOME PAGE-updated\HOME PAGE\MONTH_S TOP PICKS - D2.JPG", height="600px", width="600px">
+					</div>
+				<div class="col-auto ml-auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
+					
+			</div>
+			</div>
+			
+			<div class="bev">
+			<div class="row justify-content-md-center">
+			
+				<div class="col-auto mr-auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+				<div class="col-5">
+					<img src="C:\Users\audre\Documents\2022 PROJECTS\images\HOME PAGE-updated\HOME PAGE\MONTH_S TOP PICKS - B1.jpg", height="600px", width="600px">    
+					</div>
+				<div class="col-5">
+					<img src="C:\Users\audre\Documents\2022 PROJECTS\images\HOME PAGE-updated\HOME PAGE\MONTH_S TOP PICKS - B2.jpg", height="600px", width="600px">
+					</div>
+				<div class="col-auto ml-auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
+					
+			</div>
+			</div>
+			
+			
+			
+			

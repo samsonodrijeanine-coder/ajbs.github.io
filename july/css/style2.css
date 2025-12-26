@@ -1,0 +1,298 @@
+@import url(//db.onlinewebfonts.com/c/3b8e8e0716c50e3cafaf45b012d76569?family=Blogger+Sans);
+@import url(//db.onlinewebfonts.com/c/174a032e6fa07cdb1882a700d67dad1d?family=AntebAlt-Black);
+
+@font-face {font-family: "Blogger Sans"; src: url("//db.onlinewebfonts.com/t/3b8e8e0716c50e3cafaf45b012d76569.eot"); src: url("//db.onlinewebfonts.com/t/3b8e8e0716c50e3cafaf45b012d76569.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/3b8e8e0716c50e3cafaf45b012d76569.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/3b8e8e0716c50e3cafaf45b012d76569.woff") format("woff"), url("//db.onlinewebfonts.com/t/3b8e8e0716c50e3cafaf45b012d76569.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/3b8e8e0716c50e3cafaf45b012d76569.svg#Blogger Sans") format("svg"); }
+@font-face {
+	font-family: "AntebAlt-Black"; src: url("//db.onlinewebfonts.com/t/174a032e6fa07cdb1882a700d67dad1d.eot"); src: url("//db.onlinewebfonts.com/t/174a032e6fa07cdb1882a700d67dad1d.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/174a032e6fa07cdb1882a700d67dad1d.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/174a032e6fa07cdb1882a700d67dad1d.woff") format("woff"), url("//db.onlinewebfonts.com/t/174a032e6fa07cdb1882a700d67dad1d.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/174a032e6fa07cdb1882a700d67dad1d.svg#AntebAlt-Black") format("svg"); 	
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+h1 {
+	font-family: 'Gellatio Personal Use', sans-serif;
+	color: #f3ede0;
+	text-align: center;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 125px;
+	text-shadow: 5px 5px black;
+	position: relative;
+	line-height: 1.7em;
+	letter-spacing: 0.01em;
+}
+
+#carousel .carousel-item.restaurant{
+  background-image:url("images/bg.jpg");
+}
+#carousel .carousel-item.event{
+  background-image:url("images/HOME PAGE - EXCLUSIVE EVENT.jpg");
+}
+#carousel .carousel-item.karaoke{
+  background-image:url("images/HOME PAGE - KARAOKE ROOM.jpg");
+}
+#carousel .carousel-item.live{
+  background-image:url("images/HOME PAGE - LIVE LIFE WELL.jpg");
+}
+#carousel .carousel-item{
+  height:100vh;
+  width:100%;
+  min-height:350px;
+  background:no-repeat center center scroll;
+  background-size:cover;
+}  
+#carousel .carousel-inner .carousel-item{
+  transition:-webkit-transform 2s ease;
+  transition:transform 2s ease;
+  transition:transform 2s ease, -webkit-transform 2s ease;
+}
+#carousel .carousel-item .caption{
+  animation-duration: 1s;
+  animation-delay: 2s;
+}
+#carousel .caption h1{
+  animation-duration: 1s;
+  animation-delay: 2s;
+  text-align: center;
+}
+
+.delicious-btn{
+  display: inline-block;
+  min-width:160px;
+  height:60px;
+  color:#fff;
+  border:none;
+  border-left:3px solid #1c8314;
+  border-radius: 0;
+  padding:0 30px;
+  font-size:16px;
+  line-height:58px;
+  font-weight:600;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  text-transform: capitalize;
+  background:#40ba37;
+}
+.delicious-btn:hover,
+.delicious-btn:active,
+.delicious-btn:focus{
+  font-size:16px;
+  font-weight: 600;
+  color:#fff;
+  background:#1c8314;
+  border-color:#40ba37
+}
+
+ 
+.topnav {
+		background-color: #fffffff;
+		overflow: hidden;
+		padding: 20px 0px;
+		margin-bottom: -5px;
+		margin-top: -5px;
+		margin-right: 5px;
+		z-index: 0;
+	}
+
+.topnav a {
+		font-family: 'Harmattan', sans-serif;
+		color: #000000;
+		text-align: right;
+		padding: 10px 25px;
+		text-decoration: none;
+		font-size: 21.5px;
+		margin-left: 10px;
+		margin-top: -5px;
+	}
+
+.topnav a:hover {
+		background-color: #000000;
+		border: none;
+		color: white;
+		padding: 10px 25px;
+		margin: 2.5px 1px;
+		margin-left: 10px;
+		margin-top: 1px;
+		border-radius: 80px;
+	}
+
+.topnav a:active {
+		background-color: #000000;
+		border: none;
+		color: white;
+		padding: 10px 25px;
+		margin: 2.5px 1px;
+		margin-left: 10px;
+		margin-top: 1px;
+		border-radius: 80px;
+	}
+
+.topnav i {
+		padding: 0px 0px;
+		font-size: 28px;
+		margin-top: 0;
+		z-index: 1;
+	}	
+
+.topnav-left {
+		float: left;
+		margin-right: 0px;
+		margin-left: 180px;
+		margin-top: 1.5px;
+		font-family:"Blogger Sans";
+		font-weight: bold;
+		font-style: normal;
+		color: #000000;
+		font-size: 25px;
+		text-shadow: 0px 0px 0px black;
+	}
+
+.logo	{
+	position: absolute;
+	float: left;
+	top: 0px;
+	margin-top: -15px;
+	margin-left: 10px;
+	z-index:2;
+	}
+
+
+img {
+	border-radius: 25px;
+	}
+
+h5 {
+	font-family: "AntebAlt-Black";	
+	color: #000000;
+	font-size: 45px;
+	line-height:1em;
+}
+
+h6 {
+	font-family: "Blogger Sans";	
+	color: #4D4D4D;
+	font-size: 20.5px;
+	line-height:1em;
+	letter-spacing:0.095em;
+}
+
+h7 {
+	font-family: "Blogger Sans";	
+	color: #000000;
+	font-size: 20.5px;
+	line-height:1em;
+}
+
+
+.full_menu, .delivery, .book_now {
+		font: 'GlacialIndifferenceRegular';
+		font-weight: bold;
+		background-color: #000000;
+		border: none;
+		color: white;
+		width: 300px;
+		padding: 10px 25px;
+		margin: 2.5px 1px;
+		margin-left: 10px;
+		margin-top: 2px;
+		border-radius: 80px;
+		letter-spacing: 0.18em;
+
+}
+
+
+
+a {
+	color: #4D4D4D;
+	text-decoration: none;
+}
+
+.fildish a:visited,a:link  {
+	color: #4D4D4D;
+	text-decoration: none;
+}
+
+
+.fildish a:active,a:hover  {
+	color: black;
+	text-decoration: none;
+	font-weight:700;
+}
+
+.ribeye a:visited,a:link  {
+	color: #4D4D4D;
+	text-decoration: none;
+}
+
+
+.ribeye a:active,a:hover  {
+	color: black;
+	text-decoration: none;
+	font-weight:700;
+}
+
+.jap a:visited,a:link  {
+	color: #4D4D4D;
+	text-decoration: none;
+}
+
+
+.jap a:active,a:hover  {
+	color: black;
+	text-decoration: none;
+	font-weight:700;
+}
+
+.dessert a:visited,a:link  {
+	color: #4D4D4D;
+	text-decoration: none;
+}
+
+
+.dessert a:active,a:hover  {
+	color: black;
+	text-decoration: none;
+	font-weight:700;
+}
+
+.bev a:visited,a:link  {
+	color: #4D4D4D;
+	text-decoration: none;
+}
+
+
+.bev a:active,a:hover  {
+	color: black;
+	text-decoration: none;
+	font-weight:700;
+}
+
+
+/* Tablet Styles */
+/**
+@media only screen and (min-width: 480px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+}
+ 
+/* Desktop Styles */
+/**
+@media only screen and (min-width: 1024px) {
+	/**.column {
+      flex: 33.3%;
+      max-width: 33.3%;
+    }**/
+/**
+}
+
+	
+.container-px-4 {
+	gap: 0px 10px;
+}
+
+**/	
